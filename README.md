@@ -1,4 +1,4 @@
-# 💫 About Me  
+
 Hi, I'm **Bharat** 👋  
 ### Java Developer | Backend Developer | System Architect  
 
