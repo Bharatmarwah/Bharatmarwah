@@ -7,7 +7,8 @@ Experienced in designing microservices architectures, crafting high-performance 
 I focus on clean architecture, reliability at scale, and writing production-grade backend systems.
 
 🖥️ Typing Banner
-https://readme-typing-svg.herokuapp.com?color=32CD32&lines=Java+Developer;Backend+Engineer;System+Architect;Microservices+Expert;Spring+Boot+Developer
+![Typing Banner](https://readme-typing-svg.herokuapp.com?color=32CD32&lines=Java+Developer;Backend+Engineer;System+Architect;Microservices+Expert;Spring+Boot+Developer)
+
 
 💻 Tech Stack
 Languages
