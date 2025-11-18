@@ -1,55 +1,24 @@
 🚀 Hi, I'm Bharat
 Java Developer | Backend Engineer | System Architect
-
-Backend-focused Java developer with expertise in building secure, scalable, and fault-tolerant distributed systems.
-Experienced in designing microservices architectures, crafting high-performance APIs, and engineering cloud-ready backend platforms.
-
-I focus on clean architecture, reliability at scale, and writing production-grade backend systems.
-
-🖥️ Typing Banner
+‣Backend-focused Java developer with expertise in building secure, scalable, and fault-tolerant distributed systems.
+‣Experienced in designing microservices architectures, crafting high-performance APIs, and engineering cloud-ready backend platforms.
+‣I focus on clean architecture, reliability at scale, and writing production-grade backend systems.
 
 ![Typing Banner](https://readme-typing-svg.herokuapp.com?color=32CD32&lines=Java+Developer;Backend+Engineer;System+Architect;Microservices+Expert;Spring+Boot+Developer)
 
 💻 Tech Stack
-Languages
 
-Java
+‣**Languages**: Java , Python
 
-Python
+‣**Backend**: Spring Boot ,  Spring WebFlux
 
-Backend
+‣**System Architecture**: Monolithic Systems, Distributed Systems
 
-Spring Boot
+‣**DevOps & Cloud**: Docker, AWS
 
-Spring WebFlux
+‣**Databases**: MySQL, PostgreSQL
 
-Microservices Architecture
-
-System Design
-
-Distributed Systems
-
-Monolithic Systems
-
-System Architecture
-
-DevOps & Cloud
-
-Docker
-
-AWS
-
-Databases
-
-MySQL
-
-PostgreSQL
-
-Caching & Messaging
-
-Redis
-
-Apache Kafka
+‣**Caching&Messaging**: Redis, Apache Kafka
 
 🌐 Connect With Me
 
