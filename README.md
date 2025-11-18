@@ -8,6 +8,8 @@ I focus on clean architecture, reliability at scale, and writing production-grad
 
 🖥️ Typing Banner
 
+https://readme-typing-svg.herokuapp.com?color=32CD32&lines=Java+Developer;Backend+Engineer;System+Architect;Microservices+Expert;Spring+Boot+Developer
+
 💻 Tech Stack
 Languages
 
@@ -27,7 +29,7 @@ System Design
 
 Distributed Systems
 
-Monolithic Backend Systems
+Monolithic Systems
 
 System Architecture
 
@@ -60,23 +62,29 @@ Apache Kafka
 
 🏗️ Major Project Contributions
 
+https://github-contributor-stats.vercel.app/api?username=Bharatmarwah&repo=KitFlik-Distributed-System,SneakerCollection&limit=5&theme=dark&combine_all_yearly_contributions=true
+
+
 📊 GitHub Stats
+
+https://github-readme-stats.vercel.app/api?username=Bharatmarwah&show_icons=true&theme=tokyonight&hide_border=true
+
 
 🔥 GitHub Streak
 
-🎨 Top Languages
-Compact View
+https://streak-stats.demolab.com?user=Bharatmarwah&theme=tokyonight&hide_border=true
 
-Detailed View
+
+🎨 Top Languages (Compact)
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=Bharatmarwah&layout=compact&theme=tokyonight&hide_border=true
+
+
+🎨 Top Languages (Detailed)
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=Bharatmarwah&langs_count=10&theme=tokyonight&hide_border=true
 
 📈 Activity Graph
 
-🏆 GitHub Trophies
+https://github-readme-activity-graph.vercel.app/graph?username=Bharatmarwah&theme=tokyonight&hide_border=true
 
-🐍 Contribution Snake
-
-(If you want, I can enable GitHub Actions for this — just tell me.)
-
-![Bharat's Contribution Snake](https://github.com/Bharatmarwah/Bharatmarwah/blob/output/github-contribution-grid-snake.svg)
-
-👀 Profile Visits
