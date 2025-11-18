@@ -1,54 +1,82 @@
+🚀 Hi, I'm Bharat
+Java Developer | Backend Engineer | System Architect
 
-Hi, I'm **Bharat** 👋  
-### Java Developer | Backend Developer | System Architect  
+Backend-focused Java developer with expertise in building secure, scalable, and fault-tolerant distributed systems.
+Experienced in designing microservices architectures, crafting high-performance APIs, and engineering cloud-ready backend platforms.
 
-Backend-focused Java Developer with extensive experience in building **secure, scalable, and fault-tolerant backend systems**.  
-Skilled in **Spring Boot**, **microservices**, **distributed architectures**, and **cloud-ready backend engineering**.  
-Experienced in designing **high-performance APIs**, optimizing system throughput, implementing **AI-driven automation**, and delivering production-grade backend solutions.  
-Focused on **architectural clarity**, reliability at scale, and modern **system design principles** with clean, maintainable code.
+I focus on clean architecture, reliability at scale, and writing production-grade backend systems.
 
----
+🖥️ Typing Banner
 
-# 💻 Tech Stack
+💻 Tech Stack
+Languages
 
-### • Programming Languages  
-- **Java**, **Python**
+Java
 
-### • Backend Framework  
-- **Spring Boot**
+Python
 
-### • Architecture  
-- **Microservices**  
-- **Monolithic Backend Development**  
-- **System Architecture Design**
+Backend
 
-### • DevOps & Cloud  
-- **Docker**  
-- **AWS**
+Spring Boot
 
-### • Databases  
-- **MySQL**  
-- **PostgreSQL**
+Spring WebFlux
 
-### • Caching & Messaging  
-- **Redis**  
-- **Apache Kafka**
+Microservices Architecture
 
----
+System Design
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharat-marwah-323056319)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bharatmarwah4@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://bharatportfolio-three.vercel.app)
+Distributed Systems
 
-📞 **Phone:** +91 84476 55575  
+Monolithic Backend Systems
+
+System Architecture
+
+DevOps & Cloud
+
+Docker
+
+AWS
+
+Databases
+
+MySQL
+
+PostgreSQL
+
+Caching & Messaging
+
+Redis
+
+Apache Kafka
+
+🌐 Connect With Me
 
 
----
-
-## 🔝 Top Contributed Repo
-![Favorite Repo Contributions](https://github-contributor-stats.vercel.app/api?username=Bharatmarwah&repo=KitFlik-Distributed-System,SneakerCollection,STUDENT-MANAGEMENT-SYSTEM&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
-[![](https://visitcount.itsvg.in/api?id=Bharatmarwah&icon=0&color=0)](https://visitcount.itsvg.in)
+
+📞 Phone: +91 84476 55575
+
+🏗️ Major Project Contributions
+
+📊 GitHub Stats
+
+🔥 GitHub Streak
+
+🎨 Top Languages
+Compact View
+
+Detailed View
+
+📈 Activity Graph
+
+🏆 GitHub Trophies
+
+🐍 Contribution Snake
+
+(If you want, I can enable GitHub Actions for this — just tell me.)
+
+![Bharat's Contribution Snake](https://github.com/Bharatmarwah/Bharatmarwah/blob/output/github-contribution-grid-snake.svg)
+
+👀 Profile Visits
