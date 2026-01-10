@@ -13,7 +13,7 @@ Java Developer | Backend Engineer | System Architect
 
 ‣**Languages**: Java , Python
 
-‣**Backend**: Spring Boot ,  Spring WebFlux
+‣**Backend**: Spring Boot ,  Spring WebFlux  , FastAPI
 
 ‣**System Architecture**: Monolithic Systems, Distributed Systems
 
