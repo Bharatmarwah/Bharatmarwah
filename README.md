@@ -25,7 +25,7 @@
   <a href="mailto:bharatmarwah4@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://bharatportfolio-three.vercel.app">
+  <a href="https://bharatmarwah.is-a.dev">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   
